@@ -1,5 +1,5 @@
 public GithubTest{
-// second commit
+// second commit..edited
     public static String MY_VARIABLE = "TEST";
 
 }
